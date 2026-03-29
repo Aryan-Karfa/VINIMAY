@@ -164,7 +164,7 @@ export default function AuthPage() {
               </span>
             </div>
             <span className="text-[10px] font-sans text-white opacity-40 mt-6">
-              © 2024 VINIMAY ECO-SYSTEMS
+              © 2026 VINIMAY ECO-SYSTEMS
             </span>
           </div>
         </div>
