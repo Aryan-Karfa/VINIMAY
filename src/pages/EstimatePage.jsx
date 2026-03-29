@@ -15,7 +15,7 @@ const ITEMS = [
   { name: 'Blue Oxford Shirt', condition: 'Good', category: 'Tops', vmc: 95 },
   { name: "Levi's 511 Jeans", condition: 'Like New', category: 'Bottoms', vmc: 145 },
   { name: 'Bomber Jacket', condition: 'Fair', category: 'Outerwear', vmc: 60 },
-  { name: 'White Kurta', condition: 'Good', category: 'Ethnic', vmc: 40 }
+  { name: 'Woman Black Tee', condition: 'Good', category: 'Streetwear', vmc: 40 }
 ];
 
 export default function EstimatePage() {
