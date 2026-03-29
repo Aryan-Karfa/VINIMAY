@@ -387,6 +387,6 @@ MIT License — see [LICENSE](./LICENSE) for details.
 
 Built with intention. Designed for circularity.
 
-**VINIMAY ECO-SYSTEMS © 2024**
+**VINIMAY ECO-SYSTEMS © 2026**
 
 </div>
