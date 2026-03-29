@@ -10,7 +10,7 @@ const MOCK_IMAGES = [
   "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=240&auto=format&fit=crop", // sneaker
   "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?q=80&w=240&auto=format&fit=crop", // denim jacket
   "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=240&auto=format&fit=crop", // jeans
-  "https://images.unsplash.com/photo-1583391733959-b9a5eb40854d?q=80&w=240&auto=format&fit=crop", // kurta
+  "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=240&auto=format&fit=crop", // woman fashion
   "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=240&auto=format&fit=crop", // black graphic tee
 ];
 
